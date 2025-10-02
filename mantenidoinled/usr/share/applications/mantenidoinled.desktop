@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Ayuda | Mantenido por Inled Group
+Comment=Ayuda al usuario
+Exec=mantenidoinled
+Icon=mantenidoinled
+Terminal=false
+Type=Application
+Categories=Utility;System;

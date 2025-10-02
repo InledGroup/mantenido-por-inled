@@ -1,9 +1,8 @@
-Package: ExampleApp
-Version: 2.0
+Package: mantenidoinled
+Version: 1.0
 Section: utils
 Priority: optional
 Architecture: all
 Depends: python3, python3-gi, gir1.2-gtk-3.0
 Maintainer: Inled Group <contacto@inled.es>
-Description: Application example
-  For testing, demos, tutorials, etc.
+Description: App que informa de que está mantenido por Inled.
